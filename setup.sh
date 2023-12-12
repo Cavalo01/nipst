@@ -26,3 +26,4 @@ chmod +x nipst
 mv ./nipst ../nipst
 cd ~
 echo "Use with: ./nipst website.com"
+break
